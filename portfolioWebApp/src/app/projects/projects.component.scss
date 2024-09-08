@@ -1,0 +1,27 @@
+.projects {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+  
+    ul {
+      list-style-type: none;
+      padding: 0;
+  
+      li {
+        background-color: #f8f9fa;
+        border-radius: 8px;
+        padding: 1rem;
+        margin-bottom: 1rem;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  
+        h2 {
+          color: #333;
+          margin-top: 0;
+        }
+  
+        p {
+          color: #555;
+        }
+      }
+    }
+  }

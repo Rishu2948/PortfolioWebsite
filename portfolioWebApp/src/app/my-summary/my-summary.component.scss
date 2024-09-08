@@ -1,0 +1,23 @@
+.summary {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  
+    h1 {
+      color: #333;
+      margin-bottom: 0.5rem;
+    }
+  
+    h2 {
+      color: #555;
+      margin-bottom: 1rem;
+    }
+  
+    p {
+      color: #666;
+      line-height: 1.6;
+    }
+  }
