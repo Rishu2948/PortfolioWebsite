@@ -1,0 +1,9 @@
+<div class="projects">
+    <h1>Projects</h1>
+    <ul [@listAnimation]>
+      <li *ngFor="let project of this.projects">
+        <h2>{{ project.name }}</h2>
+        <p>{{ project.description }}</p>
+      </li>
+    </ul>
+  </div>
